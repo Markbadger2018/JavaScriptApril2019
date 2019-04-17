@@ -1,0 +1,32 @@
+.main {
+    text-align: center;
+  }
+  
+  #about {
+    margin-top: 50px;
+    display: inline-block;
+  }
+  
+  #about-picture {
+    width: 500px;
+    float: left;
+  }
+  
+  #profile-pic {
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+    border-radius: 0.4em;
+    box-shadow: 2px 2px 2px black;
+  }
+  
+  #about-content {
+    font-family: 'Indie Flower', cursive;
+    width: 40vw;
+    float: right;
+    color: white;
+  }
+  p {
+      font-size: 14pt;
+  }
+  

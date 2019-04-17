@@ -1,0 +1,10 @@
+#navbarNav {
+    background: url('../assets/img/amazing-sky-in-the-elder-scrolls-v-skyrim-51660-1920x1080.jpg') top;
+    font-family: var(--font-two);
+}
+
+.navbar-brand {
+    background: url('../assets/img/download\ \(10\).jpg') center;
+    font-family: var(--font-three);
+    font-size: 24pt;
+}

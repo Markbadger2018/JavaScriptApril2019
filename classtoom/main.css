@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+}
+/* NAVBAR */
+#navbar {
+    background-color: #333;
+}
+li {
+    display: inline-block;
+    padding: 20px;
+}
+li:hover {
+    background-color: green;
+}
+ul {
+    margin: 0;
+}
+li a {
+    color: white;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+/* HEADER */
+#header {
+    background-color: silver;
+    height: 300px;
+    width: 100%;
+}
+.wrapper {
+    padding: 7em;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+h2 {
+    font-family: 'Acme', sans-serif;
+    color: darkgreen;
+  }
+  #objects {
+    width: 40vw;
+    float: left;
+    font-family: 'Acme', sans-serif;
+  }
+  #arrays {
+    width: 40vw;
+    float: right;
+    font-family: 'Acme', sans-serif;
+  }
+  #formspree {
+    text-align: center;
+    margin: auto;
+  }
+  
+  #formspree-input {
+    width: 00px;
+    height: 100px;
+  }

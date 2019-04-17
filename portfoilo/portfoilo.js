@@ -1,0 +1,1 @@
+portfolio.getElementById("btn btn-lg btn-black").style.color = 'white';
