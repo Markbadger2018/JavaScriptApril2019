@@ -1,9 +1,4 @@
-function func1(input){
-    return input(Math.floor(Math.random()*10));
+let obj2 = {first: '1150 academy', second: 1150, third: false}
+for (let random in obj2){
+    console.log(obj2[random]);
 }
-
-function func2(num){
-    return num + ':i am a number';
-}
-
-console.log(func1(func2));
